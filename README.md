@@ -16,7 +16,7 @@ Windows 10,  Microsoft Visual Studio 2015,  Python 3.7,  Qt5.14.1(for Video reco
 
 ### Usage
 
-1. Generate single frame's convex hull with Jianchao Tan's method: https://github.com/JianchaoTan/fastLayerDecomposition. Here I provide the frames' convex hulls in "data/season/" , user need not to generated it again.
+1. Generate single frame's convex hull with Jianchao Tan's method: https://github.com/JianchaoTan/fastLayerDecomposition. **Here I provide the frames' convex hulls in "data/season/" , user need not to generate it again.**
 
 2. Run the VideoPaletteExtraction program, the generated video palette will save in "data/season/skew_polyhedron_palette"
 
