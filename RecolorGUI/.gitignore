@@ -1,0 +1,15 @@
+*.suo
+/debug
+/release
+*.stash
+*.filters
+*.vcxproj
+*.sln
+*.opendb
+*.db
+/rgbxy/scripts/__pycache__
+*.txt
+/LBC/LBC/
+/rgbxy/raw_data/RGBXY_data_0.bin
+*.bin
+/LBC

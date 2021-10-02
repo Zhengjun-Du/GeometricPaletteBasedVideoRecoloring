@@ -1,0 +1,12 @@
+%YAML:1.0
+
+frm_samp_pix_cnt: 5000
+rloss_factor: 50
+closs_factor: 1
+sloss_factor: 0.01
+blk_alpha: 10
+blk_beta: 1
+block_th: 3.5
+simplify_th: 3
+frame_refine_size: 0.2
+palette_refine_size: 0.1

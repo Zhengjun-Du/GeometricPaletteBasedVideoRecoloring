@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>blue-folder-horizontal-open.png</file>
+        <file>disk.png</file>
+        <file>document-export.png</file>
+        <file>control-pause.png</file>
+        <file>control.png</file>
+        <file>eraser.png</file>
+        <file>eraser--exclamation.png</file>
+        <file>image-export.png</file>
+        <file>film--arrow.png</file>
+        <file>color-swatches.png</file>
+        <file>color--pencil.png</file>
+        <file>films.png</file>
+        <file>film.png</file>
+        <file>film-timeline.png</file>
+        <file>color.png</file>
+        <file>color-swatch.png</file>
+        <file>ice--pencil.png</file>
+        <file>ice.png</file>
+        <file>film--pencil.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="VideoPalette.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbtConvexhull.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbConvexhull.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameBlock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbtChEdgeReduction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SystemParameter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbtSkewPolytope.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Utility.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VideoPalette.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbtConvexhull.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbConvexhull.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameBlock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Frame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbtChEdgeReduction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemParameter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Utility.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RgbtSkewPolytope.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{784bba88-8c05-4616-a7d7-c126ee4a9980}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{901b1378-6573-45c9-a478-c842ee509eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Experiments">
+      <UniqueIdentifier>{e6a77f78-7076-4bbf-812f-fffe3408c3b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
