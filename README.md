@@ -1,6 +1,6 @@
 ## Video Recoloring via Spatial-Temporal Geometric Palettes
 
-![](E:\video_palette_project\teaser.png)
+![](https://github.com/Zhengjun-Du/GeometricPaletteBasedVideoRecoloring/blob/main/teaser.png)
 
 This is the source code of the paper: **Video Recoloring via Spatial-Temporal Geometric Palettes**, authors: Zheng-Jun Du, Kai-Xiang Lei, Kun Xu, Jianchao Tan, Yotam Gingold. Please fell free to contact us if you have any questions, email: duzj19@mails.tsinghua.edu.cn
 
@@ -30,7 +30,7 @@ Windows 10,  Microsoft Visual Studio 2015,  Python 3.7,  Qt5.14.1(for Video reco
 
    c)  change the palette colors in the "Palette Timeline" view
 
-![](E:\video_palette_project\recolor-ui.png)
+![](https://github.com/Zhengjun-Du/GeometricPaletteBasedVideoRecoloring/blob/main/recolor-ui.png)
 
 ### References
 
