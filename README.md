@@ -8,9 +8,11 @@ This is the source code of the paper: **Video Recoloring via Spatial-Temporal Ge
 
 Windows 10  
 Microsoft Visual Studio 2015  
-OpenCV4.1  
+OpenCV 4.1  
+Nlopt 2.4.2 (included in "VideoPaletteExtraction/ThirdParty")
+Qhull (included in "VideoPaletteExtraction/ThirdParty")
 Python 3.7  
-Qt5.14.1(for Video recoloring GUI)
+Qt 5.14.1(for Video recoloring GUI)
 
 ### Directories
 
