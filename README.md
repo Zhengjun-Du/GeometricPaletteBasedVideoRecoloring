@@ -6,7 +6,7 @@ This is the source code of the paper: **Video Recoloring via Spatial-Temporal Ge
 
 ### Requirements
 
-Windows 10,  Microsoft Visual Studio 2015,  Python 3.7,  Qt5.14.1(for Video recoloring GUI)
+Windows 10,  Microsoft Visual Studio 2015, OpenCV4.1, Python 3.7,  Qt5.14.1(for Video recoloring GUI)
 
 ### Directories
 
