@@ -2,9 +2,6 @@
 /debug
 /release
 *.stash
-*.filters
-*.vcxproj
-*.sln
 *.opendb
 *.db
 /rgbxy/scripts/__pycache__
