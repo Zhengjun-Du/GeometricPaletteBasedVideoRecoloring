@@ -9,4 +9,6 @@
 /LBC/LBC/
 /rgbxy/raw_data/RGBXY_data_0.bin
 *.bin
+*.user
 /LBC
+/x64

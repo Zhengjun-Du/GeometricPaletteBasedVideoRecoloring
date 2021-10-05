@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\abstract_widget_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="abtwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\bound_color_selector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_2d_slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_delegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_line_edit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_list_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_names.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_preview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_selector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\color_wheel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diagwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_editor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_list_model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\gradient_slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\harmony_color_wheel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\hue_slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opengl3dwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="openglwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="paletteviewwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rgbwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qt-Color-Widgets\src\QtColorWidgets\swatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="videowidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\abstract_widget_list.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="abtwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\bound_color_selector.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_2d_slider.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_delegate.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_dialog.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_line_edit.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_list_widget.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_names.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette_model.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_palette_widget.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_preview.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_selector.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\color_wheel.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\color_wheel_private.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\colorwidgets_global.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="data.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="diagwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_delegate.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_editor.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_helper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_list_model.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\gradient_slider.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\harmony_color_wheel.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\hue_slider.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="opengl3dwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="openglwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="paletteviewwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="rgbwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="Qt-Color-Widgets\include\QtColorWidgets\swatch.hpp">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="utility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="videowidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="Qt-Color-Widgets\src\QtColorWidgets\color_dialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="Qt-Color-Widgets\src\QtColorWidgets\color_palette_widget.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="Icons.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="Qt-Color-Widgets\resources\QtColorWidgets\alphaback.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="blue-folder-horizontal-open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="color--pencil.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="color-swatch.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="color-swatches.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="color.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="Qt-Color-Widgets\resources\QtColorWidgets\color_widgets.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="control-pause.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="control.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="disk.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="document-export.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="eraser--exclamation.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="eraser.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="film--arrow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="film--pencil.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="film-timeline.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="film.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="films.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ice--pencil.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ice.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="image-export.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
