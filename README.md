@@ -25,7 +25,7 @@ Qt 5.14.1(for Video recoloring GUI)
 
 1. Generate video frames' convex hulls with Jianchao Tan's method: https://github.com/JianchaoTan/fastLayerDecomposition. Here I provide the frames' convex hulls in "data/season/" , user need not to generate it again.
 
-User can also use "./ExtractVideoFrameConvexHull/Extrac_Video_Palette_Main.py" to generate video frames' convex hulls for a new video
+   User can also use "./ExtractVideoFrameConvexHull/Extrac_Video_Palette_Main.py" to generate video frames' convex hulls for a new video
 
 2. Run the VideoPaletteExtraction program, the generated video palette will save in "data/season/skew_polyhedron_palette"
 
